@@ -1,7 +1,4 @@
-#UE14CS348 DIGITAL IMAGE PROCESSING Project info
-#Authors: Shruthi Ramesh(SRN: 01fb14ecs236) and Shwetha Srinath(SRN: 01fb14ecs239) - Section D, PESU
-
-Hello, welcome to the OCR Language Recognition **alpha attempt** by Shruthi and Shwetha.
+Welcome to the OCR Language Recognition **alpha attempt** by Shruthi and Shwetha.
 
 The **ocrtut** folder contains the code and relevant template files. Comments in the code indicate the parameters that can be tweaked to obtain different results.
 
